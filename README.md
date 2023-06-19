@@ -7,13 +7,33 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Big Data Infrastructure + DevOps...
 - 🌱 I’m currently learning to design Big data architectures and DevOps best practices...
 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwagh2204)](https://git.io/streak-stats)
+
+
+
+## :zap:  social media badges:
+
+<p align="center">
+  <a href="https://twitter.com/swapnil_sde" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/swagh2204" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/swapnilwagh019" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/swapnil.wagh.7315720" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+</p>
 
 
 ## :zap: Big Data Engineering Skills
 
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="90" />
+  <img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp" height="90" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">
@@ -30,10 +50,6 @@ Here are some ideas to get you started:
 
 <a href="https://spark.apache.org/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" height="90" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Microservices" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microservices/microservices-ar21.svg" height="90" />
 </a>
 
 <a href="https://kafka.apache.org/" target="_blank">

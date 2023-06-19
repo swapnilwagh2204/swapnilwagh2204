@@ -37,16 +37,16 @@
   <img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp" height="90" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" height="90" />
+<a href="https://hadoop.apache.org/" target="_blank">
+  <img src="https://thumbs.gfycat.com/ShoddyFatalAustraliancurlew-max-1mb.gif" height="90" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="90" />
+  <img src="https://i.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.webp" height="90" />
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="90" />
+  <img src="https://media.tenor.com/GO7C6FD0y3YAAAAC/aws.gif" height="90" />
 </a>
 
 <a href="https://spark.apache.org/" target="_blank">

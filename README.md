@@ -1,7 +1,22 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Swapnil+Wagh!;&center=true&size=30">
+  </a>
+</h1>
+
+<br>
+<p align="center">
+  Hi, I'm Swapnil Wagh , DataOps Developer
+  <br>
+  <br>
+🔭 I’m currently working on Big Data Infrastructure + DevOps.
+  <br>
+ 🌱 I’m currently learning to design Big data architectures and DevOps best practices.
+  <br>
+</p>
+
 ### Hi there 👋
 
-- 🔭 I’m currently working on Big Data Infrastructure + DevOps.
-- 🌱 I’m currently learning to design Big data architectures and DevOps best practices.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwagh2204)](https://git.io/streak-stats)

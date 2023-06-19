@@ -13,31 +13,31 @@ Here are some ideas to get you started:
 ## :zap: Big Data Engineering Skills
 
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.gif" height="90" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="90" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.gif" height="90" />
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" height="90" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.gif" height="90" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="90" />
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.gif" height="90" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="90" />
 </a>
 
 <a href="https://spark.apache.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.gif" height="90" />
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" height="90" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Microservices" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microservices/microservices-ar21.gif" height="90" />
+  <img src="https://www.vectorlogo.zone/logos/microservices/microservices-ar21.svg" height="90" />
 </a>
 
 <a href="https://kafka.apache.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.gif" height="90" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" height="90" />
 </a>
 
 ## :zap: Devops Skills

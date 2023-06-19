@@ -4,31 +4,36 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Big Data Infrastructure + DevOps...
-- 🌱 I’m currently learning to design Big data architectures and DevOps best practices...
+- 🔭 I’m currently working on Big Data Infrastructure + DevOps.
+- 🌱 I’m currently learning to design Big data architectures and DevOps best practices.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwagh2204)](https://git.io/streak-stats)
 
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikeshops&theme=2077" alt="rishikeshops" /></p>
 
+</details>
 
-## :zap:  social media badges:
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
 
-<p align="center">
-  <a href="https://twitter.com/swapnil_sde" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/swagh2204" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/swapnilwagh019" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/swapnil.wagh.7315720" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
-</p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swapnilwagh2204&theme=aura" alt="swapnilwagh2204" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swapnilwagh2204&theme=aura" alt="swapnilwagh2204" /></p>
+</details> 
 
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swapnilwagh2204&theme=great_gatsby" alt="swapnilwagh2204" /></p>
+ 
+
+</details>
+
+ 
 
 ## :zap: Big Data Engineering Skills
 
@@ -104,3 +109,22 @@ Here are some ideas to get you started:
   </a>
 </p>
   
+## :zap:  social media badges:
+
+<p align="center">
+  <a href="https://twitter.com/swapnil_sde" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/swagh2204" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/swapnilwagh019" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/swapnil.wagh.7315720" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+</p>
+
+
+

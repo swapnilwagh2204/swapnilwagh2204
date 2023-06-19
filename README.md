@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Big Data Infrastructure + DevOps.
 - 🌱 I’m currently learning to design Big data architectures and DevOps best practices.
 

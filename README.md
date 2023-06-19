@@ -6,17 +6,14 @@
 
 <br>
 <p align="center">
-  Hi, I'm Swapnil Wagh , DataOps Developer
+  Hi, I'm Swapnil Wagh , DataOps Engineer
   <br>
   <br>
-🔭 I’m currently working on Big Data Infrastructure + DevOps.
+🔭 I’m a Data+Devops Engineer with 2.5 years of work experience building scalable data pipelines on cloud infrastructures
   <br>
  🌱 I’m currently learning to design Big data architectures and DevOps best practices.
   <br>
 </p>
-
-### Hi there 👋
-
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwagh2204)](https://git.io/streak-stats)
@@ -45,6 +42,8 @@
 </details>
 
  
+[![swapnil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swapnilwagh2204&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## :zap: Big Data Engineering Skills
 

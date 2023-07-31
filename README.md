@@ -16,7 +16,7 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwagh2204)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwagh2204)]
 
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>

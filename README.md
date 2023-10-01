@@ -15,7 +15,6 @@
   <br>
 </p>
 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwagh2204)](https://git.io/streak-stats)
 
  <details>
@@ -43,6 +42,8 @@
 
  
 [![swapnil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swapnilwagh2204&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![An image of @swapnilwagh2204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swapnilwagh2204)](https://holopin.io/@swapnilwagh2204)
 
 
 ## :zap: Big Data Engineering Skills

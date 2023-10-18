@@ -5,7 +5,7 @@
 </h1>
 
 <br>
-<p align="center">
+<!-- <p align="center">
   Hi, I'm Swapnil Wagh , DataOps Engineer
   <br>
   <br>
@@ -13,7 +13,7 @@
   <br>
  🌱 I’m currently learning to design Big data architectures and DevOps best practices.
   <br>
-</p>
+</p> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwagh2204)](https://git.io/streak-stats)
 

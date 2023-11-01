@@ -15,35 +15,11 @@
   <br>
 </p> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilwagh2204)](https://git.io/streak-stats)
 
- <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-   
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swapnilwagh2204&theme=2077" alt="swapnilwagh2204" /></p>
-
-</details>
-
-  <details>
-  <summary><b>📈 My Top Languages</b></summary>
-
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swapnilwagh2204&theme=aura" alt="swapnilwagh2204" 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swapnilwagh2204&theme=aura" alt="swapnilwagh2204" /></p>
-</details> 
-
-  </details>
-    <details>
-  <summary><b>📈 My Contributions</b></summary>
-   
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swapnilwagh2204&theme=great_gatsby" alt="swapnilwagh2204" /></p>
- 
-
-</details>
 
  
 [![swapnil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swapnilwagh2204&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![An image of @swapnilwagh2204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swapnilwagh2204)](https://holopin.io/@swapnilwagh2204)
 
 
 ## :zap: Big Data Engineering Skills
